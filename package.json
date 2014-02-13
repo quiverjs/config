@@ -1,0 +1,26 @@
+{
+  "author": {
+    "name": "Soares Chen",
+    "email": "soares.chen@gmail.com",
+    "url": "http://soareschen.com"
+  },
+  "name": "quiver-config",
+  "description": "Retrieve quiver-related config from config object safely",
+  "version": "0.0.1",
+  "homepage": "https://github.com/quiverjs/config",
+  "repository": {
+    "url": "git@github.com:quiverjs/config.git"
+  },
+  "dependencies": {
+    "quiver-error": "~0.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/quiverjs/config/issues",
+    "email": "quiverjs@soareschen.com"
+  },
+  "licenses": {
+    "type": "MIT",
+    "url": "https://raw.github.com/quiverjs/license/master/LICENSE"
+  },
+  "main": "./lib/config"
+}
