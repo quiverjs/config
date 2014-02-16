@@ -1,4 +1,4 @@
-{
+ {
   "author": {
     "name": "Soares Chen",
     "email": "soares.chen@gmail.com",
@@ -6,7 +6,7 @@
   },
   "name": "quiver-config",
   "description": "Retrieve quiver-related config from config object safely",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/quiverjs/config",
   "repository": {
     "url": "git@github.com:quiverjs/config.git"
