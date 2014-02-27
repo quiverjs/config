@@ -1,4 +1,4 @@
- {
+{
   "author": {
     "name": "Soares Chen",
     "email": "soares.chen@gmail.com",
@@ -6,13 +6,21 @@
   },
   "name": "quiver-config",
   "description": "Retrieve quiver-related config from config object safely",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "https://github.com/quiverjs/config",
   "repository": {
     "url": "git@github.com:quiverjs/config.git"
   },
   "dependencies": {
-    "quiver-error": "~0.1.0"
+    "quiver-copy": "~0.1.4",
+    "quiver-error": "~0.1.0",
+    "quiver-merge": "~0.0.1",
+    "quiver-handleable": "~0.1.1",
+    "quiver-simple-handler": "~0.0.4"
+  },
+  "devDependencies": {
+    "mocha": "~1.17.1",
+    "should": "~3.1.2"
   },
   "bugs": {
     "url": "https://github.com/quiverjs/config/issues",
